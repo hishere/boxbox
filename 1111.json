@@ -1,12 +1,15 @@
 {
-  "urls": [
+  "warningText": "我不知道是什么鬼",
+  "sites": [
     {
-      "url": "",
-      "name": ""
-    },
-    {
-      "url": "",
-      "name": ""
+      "key": "kuaikan",
+      "name": "快看直链",
+      "type": 3,
+      "api": "kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.comxhkw/vip/-/raw/main/jar/kuaikan.jar"
     }
   ]
 }
